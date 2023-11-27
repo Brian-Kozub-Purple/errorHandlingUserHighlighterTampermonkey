@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Error Handling Highlighter
 // @namespace    http://tampermonkey.net/
-// @version      2.0
-// @description  try to take over the world!
+// @version      2.1
+// @description  Highlights all rows where a user is the backup for a primary on the internal Error Handling doc.
 // @author       You
 // @match        https://onpurple.atlassian.net/wiki/spaces/Integratio/pages/2936274945/Error+Handling
-// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=purple.com
 // @grant        none
 // ==/UserScript==
 
