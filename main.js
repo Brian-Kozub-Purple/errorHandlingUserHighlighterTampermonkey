@@ -4,7 +4,7 @@
 // @version      2.1
 // @description  Highlights all rows where a user is the backup for a primary on the internal Error Handling doc.
 // @author       You
-// @match        https://onpurple.atlassian.net/wiki/spaces/Integratio/pages/2936274945/Error+Handling
+// @match        https://onpurple.atlassian.net/wiki/spaces/Integratio/pages/2936274945/Internal+-+Error+Handling
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=purple.com
 // @grant        none
 // ==/UserScript==
